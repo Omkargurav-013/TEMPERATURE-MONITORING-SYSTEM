@@ -48,4 +48,5 @@ The setup reads temperature data from the LM35 sensor, converts it into Celsius 
 
 ## Output Image
 
-
+<img width="1342" height="776" alt="Image" src="https://github.com/user-attachments/assets/9316af5b-38a3-4dae-8085-2fad9af18b50" />    
+  
